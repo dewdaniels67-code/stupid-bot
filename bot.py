@@ -89,4 +89,4 @@ async def help_cmd(interaction: discord.Interaction):
     await interaction.response.send_message(embed=embed)
 # --------------------------------------------------------
 
-bot.run("YOUR_TOKEN_HERE")
+bot.run("dis t")
